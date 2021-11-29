@@ -5,7 +5,8 @@ import classes from './Navigation.module.css';
 const Navigation = () => {
   const ctx = useContext(AuthContext);
 
-  const ctx = useContext(AuthContext);
+  
+
   return (
    
           <nav className={classes.nav}>
